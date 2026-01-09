@@ -2,4 +2,7 @@
 cd Pre-record-oral-presentation-Assisgment
 Compile the CodeBashjavac BattleSystem.java
 Run the SimulationBashjava BattleSystem
+cd Pre-record-oral-presentation-Assisgment
+Compile the CodeBashjavac BattleSystem.java
+Run the SimulationBashjava BattleSystem
 
