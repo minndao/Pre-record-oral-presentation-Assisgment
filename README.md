@@ -4,7 +4,7 @@ A console-based, turn-based battle simulation that demonstrates the core princip
 
 ## 📺 Video Demonstration
 Watch the system in action or learn about the logic behind it here:
-[![Java Battle System](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=PCOH1TTmcRs)
+[![Java Battle System](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)]([https://www.youtube.com/watch?v=PCOH1TTmcRs](https://youtu.be/DD6Xbpo4eYs))
 
 ## 🏗️ Core OOP Principles Applied
 
